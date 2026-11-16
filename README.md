@@ -2,6 +2,12 @@
 
 论文网站骨架。标题、摘要来自作者提供的文本；暂不显示作者、机构、会议、论文 PDF、代码地址或实验结果。
 
+项目网址：https://easevla1.github.io/EASE/
+
+网站源码仓库：https://github.com/easevla1/EASE
+
+在线编辑内容：https://github.com/easevla1/EASE/edit/main/dist/content.js
+
 ## 修改内容
 
 直接编辑 `dist/content.js`：
